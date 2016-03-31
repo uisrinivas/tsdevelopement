@@ -1,0 +1,19 @@
+Tip: 
+You can move the Side Bar to the right hand side (View > Move Sidebar) or toggle its visibility (Ctrl+B).
+Ctrl+\ to split the active editor into two.
+Type Ctrl+P to quickly search and open a file by its name.
+VS Code allows you to quickly search over all files in the currently-opened folder. Simply type Ctrl+Shift+F
+You can configure advanced search options by typing Ctrl+Shift+J.
+Ctrl+P will let you navigate to any file or symbol by simply typing its name
+Ctrl+Tab will cycle you through the last set of files opened
+F1 will bring you directly to the editor commands
+Ctrl+Shift+O will let you navigate to a specific symbol in a file
+Ctrl+G will let you navigate to a specific line in a file
+you can use Alt+Left and Alt+Right to navigate between files and edit locations.
+you can jump to the matching bracket with Ctrl+Shift+\ can jump to the matching bracket with Ctrl+Shift+\
+Ctrl+D selects the word at the cursor, or the next occurrence of the current selection.
+Ctrl+K Ctrl+D moves the last added cursor to next occurrence of the current selection.
+You can jump to the definition with Ctrl+Click
+you can jump to a symbol across files with Ctrl+T
+To loop through errors or warnings in the current file, you can press F8 or Shift+F8
+
